@@ -1,8 +1,11 @@
 The "Don't bother me Meow" agreement
-Version 1.0 2020.9.30
+Version 2.0 2020.10.2
 
 There are no restrictions on your use of the software, as long as you comply with two requirements:
-1. The author of the software shall not take any responsibility for the software. The author shall not be liable for any consequences arising from the use of the software.
+1. The author of the Software shall not take any responsibility for the software. The author shall not be liable for any results caused by the use of the Software.
+Do not disturb the author because of any consequences brought by using this software!!
 2. Please attach the name of the software in the works using the software, so as to prove that the author is not responsible for the software.
+
+"To annoy" means to annoy the author in any way other than by giving him normal feedback.
 
 In short, you can use the software any way you want, as long as you don't bother the author with cats!
