@@ -1,11 +1,10 @@
-	"Don't Fucking Disturb Me" License
-	Version 2.0 2020.10.2
+	"Don't F**king Disturb Me" License
+	Version 4.0 2021.3.14
 
 You can use this software without any limits, if you follow two roles:
- 1. The author of this software isn't responsible for it, and the author isn't liable for any results from the use of this software.
- Don't disturb the author because of the any consequences of using it!!
+ 1. The author of this software isn't responsible for it, and the author isn't liable for any results from the use of this software. Don't disturb the author because of the any consequences of using it!!
  2. Please attach the name of this software in the works which use it, to prove that the author is not responsible for it.
 
 "Disturb" means to harass the author in any way other than by giving the author normal feedback.
 
-In brief, you can use this software whatever you want, as long as you don't fucking disturb the author!
+In brief, you can use this software whatever you want, as long as you don't f**king disturb the author!
